@@ -52,6 +52,8 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 **[HiringMessage](https://hiringmessage.com)** - Scans against 100+ rules for best practice validated with hiring managers from tech companies. I would only advice for it if your in tech, otherwise, they're are better options.
 
+**[AI Resume Keyword Table Generator](https://ronnie2025.github.io/ai-resume-keyword-table-generator/)** - Browser-only tool that turns a job description and resume summary into a JD keyword table, rewrite suggestions, and STAR interview questions. Free and nothing is uploaded.
+
 **[Resume Worded](https://resumeworded.com/)** - Gives instant feedback on content and formatting. Free tier is limited but good for quick checks before submitting.
 
 **[TopResume](https://www.topresume.com/resume-review)** - You get one free review from an actual recruiter. Worth doing once to catch obvious issues you're blind to.
