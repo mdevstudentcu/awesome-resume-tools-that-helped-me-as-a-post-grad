@@ -56,6 +56,8 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 **[TopResume](https://www.topresume.com/resume-review)** - You get one free review from an actual recruiter. Worth doing once to catch obvious issues you're blind to.
 
+**[Resume Roaster](https://resume.roastlabai.com)** - AI resume roast + ATS scoring. Upload your resume, get a brutal critique and keyword gap analysis against any job description. Free tier is actually useful for spotting what is killing your application rate.
+
 ---
 
 ## Job Boards
