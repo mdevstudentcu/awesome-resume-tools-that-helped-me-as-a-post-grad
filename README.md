@@ -56,6 +56,8 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 **[TopResume](https://www.topresume.com/resume-review)** - You get one free review from an actual recruiter. Worth doing once to catch obvious issues you're blind to.
 
+**[JobFit](https://github.com/andrwspt/jobfit)** - Free offline resume gap checker. Paste your resume + a job description, get your match score and the exact keywords you're missing. 100% client-side, no tracking, no account. [Live demo](https://andrwspt.github.io/jobfit/)
+
 ---
 
 ## Job Boards
