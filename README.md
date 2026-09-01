@@ -56,6 +56,8 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 **[TopResume](https://www.topresume.com/resume-review)** - You get one free review from an actual recruiter. Worth doing once to catch obvious issues you're blind to.
 
+**[ResumeAI](https://withresumeai.com/)** - Free ATS checker (3 checks/day with no account, 10/day with a free account) and AI resume builder. Also publishes [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) — 738 employers, 704 portal-verified; Workday 37.9%.
+
 ---
 
 ## Job Boards
