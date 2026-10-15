@@ -56,6 +56,8 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 **[TopResume](https://www.topresume.com/resume-review)** - You get one free review from an actual recruiter. Worth doing once to catch obvious issues you're blind to.
 
+**[Jorrilo](https://jorrilo.com)** - Free ATS resume check that compares your resume against a specific job description, plus AI-tailored resume and cover letter generation grounded in your actual experience.
+
 ---
 
 ## Job Boards
