@@ -56,6 +56,8 @@ The tools below helped me: (1) stop fighting with Word templates, (2) write cove
 
 **[TopResume](https://www.topresume.com/resume-review)** - You get one free review from an actual recruiter. Worth doing once to catch obvious issues you're blind to.
 
+**[Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker)** - Free with no signup. Shows the plain text the ATS pulls from your PDF and checks each job requirement against your resume, quoting the line that backs it up. The full report and PDF download are free.
+
 ---
 
 ## Job Boards
